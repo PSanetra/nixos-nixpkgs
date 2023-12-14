@@ -411,17 +411,17 @@
         "webstorm"
       ],
       "builds": {
-        "232.10072.781": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.284": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.286": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.287": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.290": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.293": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.296": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.297": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.298": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.300": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip",
-        "233.11799.303": "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip"
+        "232.10072.781": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.284": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.286": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.287": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.290": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.293": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.296": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.297": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.298": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.300": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip",
+        "233.11799.303": "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip"
       },
       "name": "github-copilot"
     },
@@ -481,7 +481,7 @@
     "https://plugins.jetbrains.com/files/13017/445774/keymap-visualStudio-233.11799.165.zip": "sha256-Nb2tSxL+mAY1qJ3waipgV8ep+0R/BaYnzz7zfwtLHmk=",
     "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar": "sha256-eXInfAqY3yEZRXCAuv3KGldM1pNKEioNwPB0rIGgJFw=",
     "https://plugins.jetbrains.com/files/164/442850/IdeaVim-2.7.5-signed.zip": "sha256-MiF8MVWBEQqupoYyI+QOyXhSvJcoSgptePENByURphI=",
-    "https://plugins.jetbrains.com/files/17718/450592/github-copilot-intellij-1.4.4.3955.zip": "sha256-JmME4MEN6nK1ueiz12VefCQHaE629jXYqYM5jxIyfGQ=",
+    "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip": "sha256-5v8S7j05e7jxpJAqvJbv8MYMDP6ueBQFnXxIjAkBVpg=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/22407/452893/intellij-rust-233.21799.284.zip": "sha256-NKKCWf0g1k/20f2ZUAWlCT9EojXwUdo8wkozTLKgT14=",
     "https://plugins.jetbrains.com/files/631/453254/python-233.11799.300.zip": "sha256-4CfaxRTO/GdTWYAnoz2TSqOGcsCKC7huNkJpCa8lhIU=",
