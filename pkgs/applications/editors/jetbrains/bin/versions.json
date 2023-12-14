@@ -27,10 +27,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.tar.gz",
-      "version": "2023.3",
-      "sha256": "ecf0cdc671d83ba6b9251ab1ad0d40bc6ca86ea577437aa2d4b9fe5aa0449fad",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.tar.gz",
-      "build_number": "233.11799.240"
+      "version": "2023.3.1",
+      "sha256": "0fc3f634200938b64465cb7fb1e42a6b6f2a362e8f0a66d48a098c6177e42e1c",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.1.tar.gz",
+      "build_number": "233.11799.302"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -150,10 +150,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.tar.gz",
-      "version": "2023.3",
-      "sha256": "053f72669c30583b0cc4dce08b56cfcdd3252087e8f4b71986178e364c69b585",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3-aarch64.tar.gz",
-      "build_number": "233.11799.240"
+      "version": "2023.3.1",
+      "sha256": "d326868c0db26c9cf09e3a036cdf3a8b52dfeb6f17ff50d086ae5f164e094e9d",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.1-aarch64.tar.gz",
+      "build_number": "233.11799.302"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -273,10 +273,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.dmg",
-      "version": "2023.3",
-      "sha256": "17fb60d9a13fc561e24054a651b2576426df43e4ec6ea6a07a7ce65648d9df5d",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.dmg",
-      "build_number": "233.11799.240"
+      "version": "2023.3.1",
+      "sha256": "9eabdf9d6dce8cd9b9259cd0c81f0554c5524af12cff54c9385c12ff79380c43",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.1.dmg",
+      "build_number": "233.11799.302"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -396,10 +396,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.dmg",
-      "version": "2023.3",
-      "sha256": "917a01af3f455fc8c6e72f838b9fe449f100ff0b7c93631cb7e778c5edee09ba",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3-aarch64.dmg",
-      "build_number": "233.11799.240"
+      "version": "2023.3.1",
+      "sha256": "bda6863efd778cab2db7af5d3129db21ee4a7aa295338d08d0efb3ea68d439d5",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2023.3.1-aarch64.dmg",
+      "build_number": "233.11799.302"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
